@@ -1,0 +1,3 @@
+filter datagrid using option buttons
+
+shows how to filter a datagrid by selecting option buttons. useful to search multiple entries with a criteria. here i have shown how to filter payments by Due, by Paid, by student name etc... Hope u find it useful.pls vote.
